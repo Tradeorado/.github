@@ -7,7 +7,9 @@ Hinter Tradeorado steht Roland Oehen-Kanzow mit 25 Jahren Handelserfahrung. Hier
 ## Was du hier findest
 
 - **[Journal](https://github.com/Tradeorado/Journal)**: Das Trading-Journal für Disziplin. Morgens das Ritual, danach jeder Trade mit Stop-Loss-Check, am Ende die Prognose auf Monate. Eine einzige HTML-Datei, läuft lokal in deinem Browser.
-- Weitere Tools folgen, so wie sie im Alltag gebraucht werden.
+- **[DailyLines](https://github.com/Tradeorado/DailyLines)**: MetaTrader-5-Indikator für Intraday-Händler. Zeichnet Vortageshoch, -tief, -close und -open sowie Open, Hoch und Tief des laufenden Tages als beschriftete Linien in den Chart.
+- **[OpeningCandles](https://github.com/Tradeorado/OpeningCandles)**: MetaTrader-5-Indikator, der die erste (08–09 Uhr) und zweite (09–10 Uhr) Eröffnungsphase jedes Tages als farbige Rechtecke mit Hoch und Tief auf M1-Basis markiert.
+- Weitere Indikatoren findest du auf [tradeorado.de/indikatoren](https://tradeorado.de/indikatoren/). Weitere Tools folgen, so wie sie im Alltag gebraucht werden.
 
 ## Woran wir glauben
 
