@@ -1,3 +1,5 @@
+<p align="center"><img src="logo-website.png" alt="Tradeorado" width="420"></p>
+
 # Tradeorado
 
 **Trading ist Strategie, Risiko und Kopf. Alle drei entscheiden, ob du in zehn Jahren noch handelst.**
